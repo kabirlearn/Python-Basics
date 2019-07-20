@@ -1,14 +1,6 @@
 #------------------------------------------------------------------------
 # Manual: Learn Python in 3 hour [Last Updated: 19-05-2019]
 #------------------------------------------------------------------------
-# 1. Credit:
-#	Dr. Prashant Singh Rana
-# 	Assistant Professor,
-# 	Computer Science and Engineering Department,
-# 	Thapar Institute Of Engineering & Technology, Patiala, Punjab.
-# 	Email: psrana@gmail.com
-# 	Contact: +91-9855764471, +91-9313889932
-#
 # 2. Python Version Used: 3.x
 #
 # 3. How to use:
